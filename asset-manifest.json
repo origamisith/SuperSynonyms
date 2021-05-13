@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/super-synonyms/static/css/main.ad8112ec.chunk.css",
-    "main.js": "/super-synonyms/static/js/main.d1dccb74.chunk.js",
-    "main.js.map": "/super-synonyms/static/js/main.d1dccb74.chunk.js.map",
+    "main.css": "/super-synonyms/static/css/main.d23f2bcf.chunk.css",
+    "main.js": "/super-synonyms/static/js/main.d2d0384f.chunk.js",
+    "main.js.map": "/super-synonyms/static/js/main.d2d0384f.chunk.js.map",
     "runtime-main.js": "/super-synonyms/static/js/runtime-main.42716749.js",
     "runtime-main.js.map": "/super-synonyms/static/js/runtime-main.42716749.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/super-synonyms/static/css/2.4c97ca4f.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.eca37428.chunk.js.map": "/super-synonyms/static/js/2.eca37428.chunk.js.map",
     "index.html": "/super-synonyms/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/super-synonyms/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.ad8112ec.chunk.css.map": "/super-synonyms/static/css/main.ad8112ec.chunk.css.map",
+    "static/css/main.d23f2bcf.chunk.css.map": "/super-synonyms/static/css/main.d23f2bcf.chunk.css.map",
     "static/js/2.eca37428.chunk.js.LICENSE.txt": "/super-synonyms/static/js/2.eca37428.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.42716749.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.eca37428.chunk.js",
-    "static/css/main.ad8112ec.chunk.css",
-    "static/js/main.d1dccb74.chunk.js"
+    "static/css/main.d23f2bcf.chunk.css",
+    "static/js/main.d2d0384f.chunk.js"
   ]
 }
